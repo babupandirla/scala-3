@@ -1,0 +1,4 @@
+
+For Whole numbers:
+
+def whole = new Rational(n,1)
